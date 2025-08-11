@@ -17,7 +17,6 @@ A professional finance calculator built in C++ with international currency suppo
 - Written in modern C++
 - Windows-specific color console implementation
 - International currency formatting
-- Robust input validation
 - Professional code architecture
 
 ## Screenshots 📸
